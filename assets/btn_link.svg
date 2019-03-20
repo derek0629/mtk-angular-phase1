@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="23px" height="23px" viewBox="0 0 23 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>btn_link</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="3.55129532%" x2="50%" y2="98.5128043%" id="linearGradient-1">
+            <stop stop-color="#2B3BE4" offset="0%"></stop>
+            <stop stop-color="#0892CF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="btn_link">
+            <g>
+                <circle id="Oval-2" fill="url(#linearGradient-1)" cx="11.5" cy="11.5" r="11.5"></circle>
+                <polygon id="Shape" fill="#FFFFFF" fill-rule="nonzero" points="9.0192 6 8 7.02247191 12.9728 12 8 16.988764 9.008 18 14.4848 12.505618 15 12 14.4848 11.494382"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

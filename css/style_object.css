@@ -1,0 +1,27 @@
+* {
+	box-sizing: border-box;
+}
+
+.o-inline-field {
+	display: inline-block;
+}
+
+.o-inline-field > * {
+	display: inline-block;
+}
+
+.o-display-table {
+	display: table;
+}
+
+.o-display-table > * {
+	display: table-cell;
+}
+
+.o-display-table > .o-display-table__row {
+	display: table-row;
+}
+
+.o-display-table > .o-display-table__row > * {
+	display: table-cell;
+}

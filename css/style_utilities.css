@@ -1,0 +1,169 @@
+.u-display--none {
+  display: none;
+}
+
+.u-margin--horizontal {
+  margin-left: .2em;
+  margin-right: .2em;
+}
+
+.u-margin--vertical {
+  margin-top: .2em;
+  margin-bottom: .2em;
+}
+.i-margin--top {
+  margin-top: 5%;
+}
+
+.u-margin--top {
+  margin-top: 1em;
+}
+
+.u-margin--bottom {
+  margin-bottom: 1em;
+}
+
+.u-word--break {
+  word-break: break-all;
+}
+
+.u-border--bottom {
+  border-bottom: 1px solid #888888;
+}
+
+.u-font-weight--normal {
+  font-weight: normal !important;
+}
+
+.u-font-weight--bold {
+  font-weight: bold !important;
+}
+
+.u-font-weight--underline {
+  text-decoration: underline;
+}
+
+.u-v-align--top {
+  vertical-align: top;
+}
+
+.u-v-align--middle {
+  vertical-align: middle;
+}
+
+.u-t-align--justify {
+  text-align: justify !important;
+}
+
+.u-t-align--center {
+  text-align: center !important;
+}
+
+.u-t-align--right {
+  text-align: right !important;
+}
+
+.u-t-align--left {
+  text-align: left !important;
+}
+
+.u-float--right {
+  float: right !important;
+}
+
+.u-float--left {
+  float: left !important;
+}
+
+.u-font--initial {
+  font-size: initial;
+}
+
+.u-font--warning {
+  color: #D0021B !important;
+}
+
+.u-width--4 {
+  width: 4% !important;
+}
+
+.u-width--5 {
+  width: 5% !important;
+}
+
+.u-width--10 {
+  width: 10% !important;
+}
+
+.u-width--15 {
+  width: 15% !important;
+}
+
+.u-width--20 {
+  width: 20% !important;
+}
+
+.u-width--24 {
+  width: 24% !important;
+}
+
+.u-width--25 {
+  width: 25% !important;
+}
+
+.u-width--27 {
+  width: 27% !important;
+}
+
+.u-width--30 {
+  width: 30% !important;
+}
+
+.u-width--38 {
+  width: 38% !important;
+}
+
+.u-width--40 {
+  width: 40% !important;
+}
+
+.u-width--48 {
+  width: 48% !important;
+}
+
+.u-width--50 {
+  width: 50% !important;
+}
+
+.u-width--52 {
+  width: 52% !important;
+}
+
+.u-width--60 {
+  width: 60% !important;
+}
+
+.u-width--70 {
+  width: 70% !important;
+}
+
+.u-width--80 {
+  width: 80% !important;
+}
+
+.u-width--90 {
+  width: 90% !important;
+}
+
+.u-width--100 {
+  width: 100% !important;
+}
+
+/* is */
+.is-invalid{
+	border: 1px solid red !important;
+}
+
+.is-invalid--label {
+    color: red;
+}

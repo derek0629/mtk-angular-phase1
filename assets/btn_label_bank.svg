@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="61px" height="50px" viewBox="0 0 61 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>btn_label_03</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="81.8867925%" y1="67.8350515%" x2="-14.3396226%" y2="14.0206186%" id="linearGradient-1">
+            <stop stop-color="#2369B9" offset="0%"></stop>
+            <stop stop-color="#3C90B9" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="96.0490463%" y1="367.013373%" x2="-42.9155313%" y2="289.450223%" id="linearGradient-2">
+            <stop stop-color="#2369B9" offset="0%"></stop>
+            <stop stop-color="#3C90B9" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="96.0490463%" y1="271.91679%" x2="-42.9155313%" y2="194.35364%" id="linearGradient-3">
+            <stop stop-color="#2369B9" offset="0%"></stop>
+            <stop stop-color="#3C90B9" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="96.0490463%" y1="176.67162%" x2="-42.9155313%" y2="99.1084695%" id="linearGradient-4">
+            <stop stop-color="#2369B9" offset="0%"></stop>
+            <stop stop-color="#3C90B9" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-79.6226415%" y1="32.0288363%" x2="-175.849057%" y2="-21.7301751%" id="linearGradient-5">
+            <stop stop-color="#2369B9" offset="0%"></stop>
+            <stop stop-color="#3C90B9" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-137.19346%" y1="315.304606%" x2="-276.158038%" y2="237.741456%" id="linearGradient-6">
+            <stop stop-color="#2369B9" offset="0%"></stop>
+            <stop stop-color="#3C90B9" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-137.19346%" y1="220.208024%" x2="-276.158038%" y2="142.644874%" id="linearGradient-7">
+            <stop stop-color="#2369B9" offset="0%"></stop>
+            <stop stop-color="#3C90B9" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-137.19346%" y1="125.14881%" x2="-276.158038%" y2="47.4702381%" id="linearGradient-8">
+            <stop stop-color="#2369B9" offset="0%"></stop>
+            <stop stop-color="#3C90B9" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-204.175666%" y1="44.8103792%" x2="-277.609791%" y2="-7.28542914%" id="linearGradient-9">
+            <stop stop-color="#2369B9" offset="0%"></stop>
+            <stop stop-color="#3C90B9" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-282.126058%" y1="320.70922%" x2="-378.080903%" y2="246.666667%" id="linearGradient-10">
+            <stop stop-color="#2369B9" offset="0%"></stop>
+            <stop stop-color="#3C90B9" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-282.126058%" y1="230.113636%" x2="-378.080903%" y2="155.965909%" id="linearGradient-11">
+            <stop stop-color="#2369B9" offset="0%"></stop>
+            <stop stop-color="#3C90B9" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-282.126058%" y1="139.007092%" x2="-378.080903%" y2="64.964539%" id="linearGradient-12">
+            <stop stop-color="#2369B9" offset="0%"></stop>
+            <stop stop-color="#3C90B9" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="btn_label_03" fill-rule="nonzero">
+            <g id="圖層_2">
+                <g>
+                    <g>
+                        <g id="圖層_1-2">
+                            <polygon id="Shape" fill="#FFFFFF" points="10.56 19.1 0 13.79 19.26 0 29.82 5.32"></polygon>
+                            <polygon id="Shape" fill="#D5D5D5" points="10.6 46.36 0.04 41.04 0 13.79 10.56 19.1"></polygon>
+                            <polygon id="Shape" fill="#EAEAEA" points="29.86 32.58 10.6 46.36 10.56 19.1 29.82 5.32"></polygon>
+                            <polygon id="Shape" fill="#2FACE8" points="28.07 14.6 12.38 25.82 12.35 22.02 28.04 10.8"></polygon>
+                            <polygon id="Shape" fill="#2FACE8" points="28.07 21.23 12.38 32.46 12.35 28.66 28.04 17.43"></polygon>
+                            <polygon id="Shape" fill="#2FACE8" points="28.07 27.86 12.38 39.09 12.35 35.29 28.04 24.06"></polygon>
+                            <polygon id="Shape" fill="#2FACE8" points="29.86 32.58 10.6 46.36 10.56 41.98 29.82 28.19"></polygon>
+                            <polygon id="Shape" fill="url(#linearGradient-1)" points="10.6 46.36 0.04 41.04 0 36.66 10.56 41.98"></polygon>
+                            <polygon id="Shape" fill="url(#linearGradient-2)" points="8.97 25.27 1.66 21.58 1.63 18.54 8.94 22.23"></polygon>
+                            <polygon id="Shape" fill="url(#linearGradient-3)" points="8.97 31.67 1.66 27.98 1.63 24.94 8.94 28.63"></polygon>
+                            <polygon id="Shape" fill="url(#linearGradient-4)" points="8.97 38.08 1.66 34.39 1.63 31.35 8.94 35.03"></polygon>
+                            <polygon id="Shape" fill="#EAEAEA" points="37.09 43.14 27.72 49.84 27.68 22.58 37.04 15.88"></polygon>
+                            <polygon id="Shape" fill="#2FACE8" points="35.3 25.16 29.5 29.3 29.46 25.5 35.26 21.36"></polygon>
+                            <polygon id="Shape" fill="#2FACE8" points="35.3 31.79 29.5 35.94 29.46 32.13 35.26 27.99"></polygon>
+                            <polygon id="Shape" fill="#2FACE8" points="35.3 38.42 29.5 42.57 29.46 38.77 35.26 34.62"></polygon>
+                            <polygon id="Shape" fill="#2FACE8" points="37.09 43.14 27.72 49.84 27.68 45.45 37.04 38.75"></polygon>
+                            <polygon id="Shape" fill="#EAEAEA" points="60.91 41.7 50.93 48.77 50.88 21.52 60.87 14.45"></polygon>
+                            <polygon id="Shape" fill="#2FACE8" points="59.12 23.72 52.71 28.24 52.67 24.44 59.09 19.92"></polygon>
+                            <polygon id="Shape" fill="#2FACE8" points="59.12 30.36 52.71 34.87 52.67 31.07 59.09 26.55"></polygon>
+                            <polygon id="Shape" fill="#2FACE8" points="59.12 36.99 52.71 41.5 52.67 37.7 59.09 33.19"></polygon>
+                            <polygon id="Shape" fill="#2FACE8" points="60.91 41.7 50.93 48.77 50.88 44.39 60.87 37.32"></polygon>
+                            <polygon id="Shape" fill="#D5D5D5" points="27.72 49.84 17.16 44.52 17.12 17.26 27.68 22.58"></polygon>
+                            <polygon id="Shape" fill="url(#linearGradient-5)" points="27.72 49.84 17.16 44.52 17.12 40.13 27.68 45.45"></polygon>
+                            <polygon id="Shape" fill="url(#linearGradient-6)" points="26.09 28.75 18.77 25.06 18.75 22.02 26.06 25.7"></polygon>
+                            <polygon id="Shape" fill="url(#linearGradient-7)" points="26.09 35.15 18.77 31.46 18.75 28.42 26.06 32.11"></polygon>
+                            <polygon id="Shape" fill="url(#linearGradient-8)" points="26.09 41.55 18.77 37.87 18.75 34.83 26.06 38.51"></polygon>
+                            <polygon id="Shape" fill="#D5D5D5" points="50.93 48.77 37.09 43.14 37.04 15.88 50.88 21.52"></polygon>
+                            <polygon id="Shape" fill="url(#linearGradient-9)" points="50.93 48.77 37.09 43.14 37.04 38.75 50.88 44.39"></polygon>
+                            <polygon id="Shape" fill="url(#linearGradient-10)" points="49.3 27.68 38.7 23.67 38.67 20.63 49.27 24.64"></polygon>
+                            <polygon id="Shape" fill="url(#linearGradient-11)" points="49.3 34.08 38.7 30.08 38.67 27.04 49.27 31.04"></polygon>
+                            <polygon id="Shape" fill="url(#linearGradient-12)" points="49.3 40.49 38.7 36.48 38.67 33.44 49.27 37.45"></polygon>
+                            <polygon id="Shape" fill="#FFFFFF" points="60.87 14.45 36.38 3.48 17.12 17.26 27.68 22.58 37.04 15.88 50.88 21.52"></polygon>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
