@@ -4,3 +4,77 @@ body, html {
 	margin: 0;
 	padding: 0;
 }
+
+a {
+	text-decoration: none;
+}
+
+li {
+	list-style:none;
+}
+
+
+
+/*--------------------header-----------------------*/
+header {
+	position: fixed;
+	background-color: lightgreen;
+	width: 100%;
+	line-height: 100px;
+}
+
+nav {
+	display: inline-block;
+	float: right;
+	padding-right: 50px;
+}
+
+.c-logo {
+	display: inline-block;
+	width: 200px;
+	line-height: inherit;
+	margin-left: 30px;
+}
+
+.c-logo img {
+	vertical-align: middle;
+}
+
+.c-nav-li {
+	display: inline-block;
+}
+/*--------------------header-----------------------*/
+
+
+
+/*--------------------section-----------------------*/
+section {
+	top: 105px;
+	position: relative;
+	width: 100%;
+	min-height: 600px;
+}
+/*--------------------section-----------------------*/
+
+
+
+
+/*--------------------footer-----------------------*/
+footer {
+	position: relative;
+	background-color: lightgray;
+	width: 100%;
+	top: 130px;
+	border: 1px solid gray;
+}
+
+.c-footer-left {
+	display: inline-block;
+	width: 50%;
+	border-right: 1px solid gray;
+}
+
+.c-footer-right {
+	display: inline-block;
+}
+/*--------------------footer-----------------------*/
