@@ -20,13 +20,21 @@ header {
 	position: fixed;
 	background-color: lightgreen;
 	width: 100%;
-	line-height: 100px;
+	line-height: 105px;
+	height: 105px;
+	z-index: 10;
 }
 
 nav {
 	display: inline-block;
 	float: right;
 	padding-right: 50px;
+}
+
+nav > ul {
+	padding: 0;
+	margin: 0;
+	list-style-type: none;
 }
 
 .c-logo {
