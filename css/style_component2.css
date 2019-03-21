@@ -1,5 +1,6 @@
-.c-form-container {
+.c-page-content {
 	padding-top: 5%;
+	padding-bottom: 5%;
 }
 
 .c-form {
@@ -45,4 +46,37 @@
 	margin-right: .3em;
 	margin-left: .3em;
 	background-color: #FFFFFF;
+}
+
+.c-welcome {
+	display: inline-block;
+    line-height: 30px;
+    vertical-align: middle;
+    padding-left: 2em;
+}
+
+.c-article__container {
+	width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 2em;
+    border: 1px solid #888888;
+    border-radius: 20px;
+}
+
+.c-article__content {
+	text-align: justify;
+	word-break: break-all;
+}
+
+.c-article__version {
+	padding-top: .2em;
+	padding-bottom: .2em;
+	text-align: right;
+}
+
+.c-article__action-bar {
+	padding-top: .2em;
+	padding-bottom: .2em;
+	text-align: center;
 }
