@@ -11,6 +11,12 @@
   margin-top: .2em;
   margin-bottom: .2em;
 }
+
+.u-margin--vertical-1em {
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
 .i-margin--top {
   margin-top: 5%;
 }
@@ -25,6 +31,10 @@
 
 .u-word--break {
   word-break: break-all;
+}
+
+.u-border {
+  border: 1px solid #888888;
 }
 
 .u-border--bottom {

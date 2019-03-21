@@ -1,0 +1,22 @@
+.c-form-container {
+	padding-top: 5%;
+}
+
+.c-form {
+	width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 2em;
+    border: 1px solid #888888;
+}
+
+.c-tab {
+	display: inline-block;
+    padding: 1em;
+	background-color: #949494;
+	color: #FFFFFF;
+}
+
+.c-tab--active {
+	background-color: #FF8229;
+}
