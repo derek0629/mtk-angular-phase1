@@ -170,6 +170,43 @@ section {
 	display: inline-block;
 	width: 18%;
 }
+
+.c-otherlink {
+	text-align: center;
+	border: 1px solid gray;
+}
+
+.c-otherlink-img {
+	display: inline-block;
+	width: 70%;
+	vertical-align: top;
+}
+
+.c-otherlink-img li{
+	display: inline-block;
+	width: 30%;
+	margin-bottom: 10px;
+}
+
+.c-otherlink img {
+	width: 150px;
+}
+
+.c-otherlink-text {
+	display: inline-block;
+	width: 25%;
+	border: 1px solid gray;
+	margin-top: 1em;
+	margin-bottom: 2em;
+}
+
+.c-otherlink-text ul {
+	padding: 0;
+}
+
+.c-otherlink-text li:hover {
+	background-color: yellow;
+}
 /*--------------------section-----------------------*/
 
 
